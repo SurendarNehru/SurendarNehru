@@ -24,7 +24,7 @@ Currently focused on strengthening my software development skills and building p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs,HTML5,CSS,Java,dotnet,git,github,visualstudio,vscode&perline=6" alt="Tech Stack" />
 
 </div>
 
